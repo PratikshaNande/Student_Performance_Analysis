@@ -1,0 +1,13 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+=============================================
+
+Total Students: 20
+Average Score: 71.18
+Highest Score: 95.0
+Lowest Score: 41.67
+Pass Students: 20
+Fail Students: 0
+Pass Percentage: 100.0
+Best Subject: English
+Weakest Subject: Science
+Top City: Mumbai
